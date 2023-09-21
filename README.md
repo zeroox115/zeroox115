@@ -2,6 +2,10 @@
 
 ###
 
+
+<img src="https://media.discordapp.net/attachments/1150425382995120218/1154506821898354819/GS2lNSg.png?width=864&height=179" height="150"  />
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroox115&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -55,7 +59,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ijiwdtlwwmjpw2xjhouj67xy7u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ijiwdtlwwmjpw2xjhouj67xy7u" alt="Spotify recently played"  />
   </a>
 </div>
 
